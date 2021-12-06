@@ -5,7 +5,7 @@ This folder details the notebooks and datasets used in completing the DataCamp g
 The skills developed in DataCamp's 'Intermediate Python' course are used to manipulate and visualise data from Netflix and The Office.
 
 Project information
-## A - Guided Project
+## A - Guided Project 📝
 Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. 
 
 ### Tasks:
@@ -21,7 +21,7 @@ Dig into a real-world Netflix movie dataset using everything from lists and loop
 10. What next?
 
 
-## B - Unguided Project
+## B - Unguided Project 📝🌟
 Bring together a wide variety of skills from Intermediate Python to prepare and plot data on the history of the sitcom The Office.
 
 ### Question 1:
