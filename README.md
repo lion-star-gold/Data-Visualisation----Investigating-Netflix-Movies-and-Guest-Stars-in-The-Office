@@ -28,7 +28,7 @@ Bring together a wide variety of skills from Intermediate Python to prepare and 
 Create a matplotlib scatter plot of the data that contains the following attributes:
 ‣ Each episode's episode number plotted along the x-axis  
 ‣ Each episode's viewership (in millions) plotted along the y-axis  
-‣A color scheme reflecting the scaled ratings (not the regular ratings) of each episode, such that:  
+‣ A color scheme reflecting the scaled ratings (not the regular ratings) of each episode, such that:  
 -‣ Ratings < 0.25 are colored "red"  
 -‣ Ratings >= 0.25 and < 0.50 are colored "orange"  
 -‣ Ratings >= 0.50 and < 0.75 are colored "lightgreen"  
