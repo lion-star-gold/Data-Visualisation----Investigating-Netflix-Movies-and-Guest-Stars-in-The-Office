@@ -3,8 +3,8 @@ This folder details the notebooks and datasets used in completing the DataCamp g
 
 ## Overall Description
 The skills developed in DataCamp's 'Intermediate Python' course are used to manipulate and visualise data from Netflix and The Office.
+A project presenting skills in Data Manipulation and Visualisation.
 
-Project information
 ## A - Guided Project 📝
 Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. 
 
